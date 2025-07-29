@@ -35,4 +35,4 @@ This project demonstrates a strong command of advanced Power BI techniques, incl
 
 ### 📂 Full Project Readme
 
-[Click here for the full project documentation.](https://github.com/AshishShetty1854/Power_BI_Dashboard/blob/main/Data_Jobs_v1/README.md)
+[Click here for the full project documentation.](https://github.com/AshishShetty1854/Power_BI_Dashboard/blob/main/README.md)
